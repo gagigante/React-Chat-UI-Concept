@@ -58,11 +58,11 @@ To install dependencies
 ```
 To start de server
 ```
-  $ yarn dev
+  $ yarn start
 
   or
 
-  $ npm dev
+  $ npm start
 ```
 
 ## 🤔 How to contribute
